@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/sandbox/bin/Debug/netcoreapp2.0/sandbox.deps.json
+/home/ubuntu/workspace/sandbox/bin/Debug/netcoreapp2.0/sandbox.runtimeconfig.json
+/home/ubuntu/workspace/sandbox/bin/Debug/netcoreapp2.0/sandbox.runtimeconfig.dev.json
+/home/ubuntu/workspace/sandbox/obj/Debug/netcoreapp2.0/sandbox.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/sandbox/obj/Debug/netcoreapp2.0/sandbox.AssemblyInfo.cs
+/home/ubuntu/workspace/sandbox/bin/Debug/netcoreapp2.0/sandbox.dll
+/home/ubuntu/workspace/sandbox/bin/Debug/netcoreapp2.0/sandbox.pdb
+/home/ubuntu/workspace/sandbox/obj/Debug/netcoreapp2.0/sandbox.dll
+/home/ubuntu/workspace/sandbox/obj/Debug/netcoreapp2.0/sandbox.pdb
