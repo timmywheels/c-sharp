@@ -6,13 +6,16 @@ namespace Mod1_Lab1
     {
         static void Main(string[] args)
         {
-			var Car1 = new Car();
+	    var Audi = new Car
+            {
+                Color = "White",
+                Model = "Audi",
+                Year = 2010,
+                Mileage = 11000
+            };
 
-            Car1.Color = "White";
-            Car1.Year = 2010;
-            Car1.Mileage = 11000;
-
-            Console.WriteLine($"This car is painted {Car1.Color}, was built in {Car1.Year}, and has {Car1.Mileage} miles on it.");
+            Console.WriteLine($"This is a {Audi.Model}, it was built in {Audi.Year} and the color is" +
+                              $" {Audi.Color} and it currently has {Audi.Mileage} miles on it.");
 
         }
     }
@@ -20,7 +23,9 @@ namespace Mod1_Lab1
     public class Car
     {
         public string Color { get; set; }
+	public string Model { get; set; }
         public int Year { get; set;  }
         public int Mileage { get; set; }
+	    
     }
 }
