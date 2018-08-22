@@ -49,7 +49,7 @@ namespace Lists
             numbers.Clear();
             Console.WriteLine("Count: " + numbers.Count);
 
-
+            Console.WriteLine();
             // Useful List methods
             // Add()
             // AddRange()
