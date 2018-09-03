@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/bin/Debug/netcoreapp2.1/Classes.deps.json
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/bin/Debug/netcoreapp2.1/Classes.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/bin/Debug/netcoreapp2.1/Classes.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/bin/Debug/netcoreapp2.1/Classes.dll
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/bin/Debug/netcoreapp2.1/Classes.pdb
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/obj/Debug/netcoreapp2.1/Classes.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/obj/Debug/netcoreapp2.1/Classes.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/obj/Debug/netcoreapp2.1/Classes.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/obj/Debug/netcoreapp2.1/Classes.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/obj/Debug/netcoreapp2.1/Classes.dll
+/Users/timothywheeler/Projects/c-sharp/Classes/Classes/obj/Debug/netcoreapp2.1/Classes.pdb

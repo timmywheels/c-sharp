@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/bin/Debug/netcoreapp2.1/Ineritance.deps.json
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/bin/Debug/netcoreapp2.1/Ineritance.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/bin/Debug/netcoreapp2.1/Ineritance.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/bin/Debug/netcoreapp2.1/Ineritance.dll
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/bin/Debug/netcoreapp2.1/Ineritance.pdb
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/obj/Debug/netcoreapp2.1/Ineritance.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/obj/Debug/netcoreapp2.1/Ineritance.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/obj/Debug/netcoreapp2.1/Ineritance.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/obj/Debug/netcoreapp2.1/Ineritance.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/obj/Debug/netcoreapp2.1/Ineritance.dll
+/Users/timothywheeler/Projects/c-sharp/Ineritance/Ineritance/obj/Debug/netcoreapp2.1/Ineritance.pdb

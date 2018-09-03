@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.deps.json
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.dll
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.pdb
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.dll
+/Users/timothywheeler/Projects/c-sharp/Birthdate/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.pdb

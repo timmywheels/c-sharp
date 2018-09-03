@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.deps.json
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.dll
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.pdb
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.dll
+/Users/timothywheeler/Projects/c-sharp/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.pdb
