@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb3da705-0677-48a6-930b-6ad958e88a88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Birthdate/.idea/.idea.Birthdate/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Birthdate/.idea/.idea.Birthdate/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Birthdate/.idea/.idea.Birthdate/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Birthdate/.idea/.idea.Birthdate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Birthdate/.idea/.idea.Birthdate/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Birthdate/Birthdate/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/.idea/.idea.CSharpIntermediate/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/.idea/.idea.CSharpIntermediate/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/.idea/.idea.CSharpIntermediate/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/.idea/.idea.CSharpIntermediate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/.idea/.idea.CSharpIntermediate/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/CSharpIntermediate/Customer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSharpIntermediate/CSharpIntermediate/Order.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Composition/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Composition/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Composition/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Composition/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Composition/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Composition/DbMigrator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Composition/Installer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Composition/Logger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Composition/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +14,10 @@
     <session id="1162300790">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,17 +43,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Composition/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <marker date="1536009818000" expanded="true" signature="36:398" ph="{...}" />
-                <marker date="1536009818000" expanded="true" signature="56:396" ph="{...}" />
-                <marker date="1536009818000" expanded="true" signature="102:390" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -81,7 +58,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1536009576000" expanded="true" signature="36:176" ph="{...}" />
                 <marker date="1536009576000" expanded="true" signature="62:174" ph="{...}" />
                 <marker date="1536009576000" expanded="true" signature="108:168" ph="{...}" />
               </folding>
@@ -92,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Composition/Installer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <marker date="1536009840000" expanded="true" signature="21:314" ph="{...}" />
                 <marker date="1536009840000" expanded="true" signature="50:312" ph="{...}" />
@@ -109,7 +85,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1536009690000" expanded="true" signature="21:307" ph="{...}" />
                 <marker date="1536009690000" expanded="true" signature="51:305" ph="{...}" />
                 <marker date="1536009690000" expanded="true" signature="140:190" ph="{...}" />
                 <marker date="1536009690000" expanded="true" signature="221:299" ph="{...}" />
@@ -146,8 +121,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="30" />
+    <option name="x" value="1920" />
+    <option name="y" value="23" />
     <option name="width" value="1233" />
     <option name="height" value="1000" />
   </component>
@@ -231,12 +206,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536009418433</updated>
-      <workItem from="1536009419589" duration="752000" />
+      <workItem from="1536009419589" duration="1248000" />
+      <workItem from="1536338735327" duration="270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="752000" />
+    <option name="totallyTimeSpent" value="1518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,38 +224,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="30" width="1233" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="1920" y="23" width="1233" height="1000" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24937028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25356844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32929516" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -295,27 +270,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Composition/DbMigrator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1536009690000" expanded="true" signature="21:307" ph="{...}" />
-            <marker date="1536009690000" expanded="true" signature="51:305" ph="{...}" />
-            <marker date="1536009690000" expanded="true" signature="140:190" ph="{...}" />
-            <marker date="1536009690000" expanded="true" signature="221:299" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Composition/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <marker date="1536009818000" expanded="true" signature="36:398" ph="{...}" />
-            <marker date="1536009818000" expanded="true" signature="56:396" ph="{...}" />
-            <marker date="1536009818000" expanded="true" signature="102:390" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -323,17 +281,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1536009576000" expanded="true" signature="36:176" ph="{...}" />
             <marker date="1536009576000" expanded="true" signature="62:174" ph="{...}" />
             <marker date="1536009576000" expanded="true" signature="108:168" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Composition/DbMigrator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1536009690000" expanded="true" signature="51:305" ph="{...}" />
+            <marker date="1536009690000" expanded="true" signature="140:190" ph="{...}" />
+            <marker date="1536009690000" expanded="true" signature="221:299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Composition/Installer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <marker date="1536009840000" expanded="true" signature="21:314" ph="{...}" />
             <marker date="1536009840000" expanded="true" signature="50:312" ph="{...}" />

@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/bin/Debug/netcoreapp2.1/FacebookPost.deps.json
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/bin/Debug/netcoreapp2.1/FacebookPost.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/bin/Debug/netcoreapp2.1/FacebookPost.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/bin/Debug/netcoreapp2.1/FacebookPost.dll
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/bin/Debug/netcoreapp2.1/FacebookPost.pdb
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/obj/Debug/netcoreapp2.1/FacebookPost.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/obj/Debug/netcoreapp2.1/FacebookPost.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/obj/Debug/netcoreapp2.1/FacebookPost.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/obj/Debug/netcoreapp2.1/FacebookPost.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/obj/Debug/netcoreapp2.1/FacebookPost.dll
+/Users/timothywheeler/Projects/c-sharp/FacebookPost/FacebookPost/obj/Debug/netcoreapp2.1/FacebookPost.pdb
