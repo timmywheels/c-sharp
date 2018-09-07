@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.deps.json
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.pdb
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.dll
+/Users/timothywheeler/Projects/c-sharp/ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.pdb

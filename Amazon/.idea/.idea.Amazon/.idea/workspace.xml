@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f97a27c3-13fc-4845-b88e-8b4b9ee1d987" name="Default Changelist" comment="">
+    <list default="true" id="b3ecab32-55b8-4eeb-a206-125cbf751740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Amazon/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Amazon/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Amazon/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Amazon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Amazon/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/contentModel.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/indexLayout.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/modules.xml" afterDir="false" />
@@ -10,8 +15,8 @@
       <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../_Inheritance/_Inheritance/Customer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseName/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseName/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseName/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Testing/.idea/.idea.Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing/.idea/.idea.Testing/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,32 +26,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1027324074">
+    <session id="70515135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="cs" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
+          <entry key="C#" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="17" />
+          <entry key="cs" value="262" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="17" />
+          <entry key="C#" value="262" />
         </counts>
       </usages-collector>
     </session>
@@ -54,14 +59,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReverseName/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Amazon/Customer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="420">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <marker date="1536344210000" expanded="true" signature="36:224" ph="{...}" />
-                <marker date="1536344210000" expanded="true" signature="56:222" ph="{...}" />
-                <marker date="1536344210000" expanded="true" signature="102:216" ph="{...}" />
+                <marker date="1536345692000" expanded="true" signature="31:525" ph="{...}" />
+                <marker date="1536345692000" expanded="true" signature="66:168" ph="{...}" />
+                <marker date="1536345692000" expanded="true" signature="120:162" ph="{...}" />
+                <marker date="1536345692000" expanded="true" signature="204:523" ph="{...}" />
+                <marker date="1536345692000" expanded="true" signature="318:508" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -73,12 +80,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ReverseName/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Amazon/Customer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ReverseName/Program.cs" />
+        <option value="$PROJECT_DIR$/Amazon/Customer.cs" />
       </list>
     </option>
   </component>
@@ -89,10 +96,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="24" />
-    <option name="width" value="1342" />
-    <option name="height" value="1056" />
+    <option name="x" value="265" />
+    <option name="y" value="240" />
+    <option name="width" value="1365" />
+    <option name="height" value="809" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,10 +107,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Amazon" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Amazon" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Amazon" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Amazon" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Amazon" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,47 +150,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseName" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs>
-        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
-        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
-      </envs>
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseName/ReverseName.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
-      <browser url="http://localhost:5000" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f97a27c3-13fc-4845-b88e-8b4b9ee1d987" name="Default Changelist" comment="" />
-      <created>1536342177678</created>
+      <changelist id="b3ecab32-55b8-4eeb-a206-125cbf751740" name="Default Changelist" comment="" />
+      <created>1536345378259</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536342177678</updated>
-      <workItem from="1536342179036" duration="1627000" />
+      <updated>1536345378259</updated>
+      <workItem from="1536345379526" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1627000" />
+    <option name="totallyTimeSpent" value="529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,11 +177,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="24" width="1342" height="1056" extended-state="0" />
+    <frame x="265" y="240" width="1365" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29478458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -188,10 +190,9 @@
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32987553" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32987553" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,14 +223,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReverseName/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Amazon/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/Customer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <marker date="1536344210000" expanded="true" signature="36:224" ph="{...}" />
-            <marker date="1536344210000" expanded="true" signature="56:222" ph="{...}" />
-            <marker date="1536344210000" expanded="true" signature="102:216" ph="{...}" />
+            <marker date="1536345692000" expanded="true" signature="31:525" ph="{...}" />
+            <marker date="1536345692000" expanded="true" signature="66:168" ph="{...}" />
+            <marker date="1536345692000" expanded="true" signature="120:162" ph="{...}" />
+            <marker date="1536345692000" expanded="true" signature="204:523" ph="{...}" />
+            <marker date="1536345692000" expanded="true" signature="318:508" ph="{...}" />
           </folding>
         </state>
       </provider>

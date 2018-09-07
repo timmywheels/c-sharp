@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f83f7c7-0169-40f4-ac96-68a60602435c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Testing/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composition/.idea/.idea.Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/.idea.Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Testing/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +16,7 @@
     <session id="-975780344">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -40,7 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <marker date="1536339514000" expanded="true" signature="32:173" ph="{...}" />
                 <marker date="1536339514000" expanded="true" signature="52:171" ph="{...}" />
@@ -129,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536339495662</updated>
-      <workItem from="1536339497194" duration="892000" />
+      <workItem from="1536339497194" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="892000" />
+    <option name="totallyTimeSpent" value="894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,7 +193,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <marker date="1536339514000" expanded="true" signature="32:173" ph="{...}" />
             <marker date="1536339514000" expanded="true" signature="52:171" ph="{...}" />
