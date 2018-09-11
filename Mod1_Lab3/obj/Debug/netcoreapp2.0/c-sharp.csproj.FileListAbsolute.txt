@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/c-sharp/bin/Debug/netcoreapp2.0/c-sharp.deps.json
+/home/ubuntu/workspace/c-sharp/bin/Debug/netcoreapp2.0/c-sharp.runtimeconfig.json
+/home/ubuntu/workspace/c-sharp/bin/Debug/netcoreapp2.0/c-sharp.runtimeconfig.dev.json
+/home/ubuntu/workspace/c-sharp/bin/Debug/netcoreapp2.0/c-sharp.dll
+/home/ubuntu/workspace/c-sharp/bin/Debug/netcoreapp2.0/c-sharp.pdb
+/home/ubuntu/workspace/c-sharp/obj/Debug/netcoreapp2.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/c-sharp/obj/Debug/netcoreapp2.0/c-sharp.AssemblyInfo.cs
+/home/ubuntu/workspace/c-sharp/obj/Debug/netcoreapp2.0/c-sharp.dll
+/home/ubuntu/workspace/c-sharp/obj/Debug/netcoreapp2.0/c-sharp.pdb
