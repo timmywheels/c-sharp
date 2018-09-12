@@ -13,12 +13,11 @@ namespace SpeedLimit
             var speed = Convert.ToInt32(Console.ReadLine());
 
             var speedOver = speed - speedLimit;
-            
-            
+ 
             
             var demerits = Convert.ToInt32(speedOver / 5);
             
-            if (speed <= speedLimit && speed > speedLimit)
+            if (speed <= speedLimit)
             {
                 Console.WriteLine("Ok");
             }
