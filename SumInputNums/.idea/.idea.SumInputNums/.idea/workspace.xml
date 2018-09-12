@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac0df186-c267-4978-aa4e-be35cccef084" name="Default Changelist" comment="" />
+    <list default="true" id="84bd53b2-9a66-455f-8ea6-9f2a28cec651" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../NumsDivisible100/.idea/.idea.NumsDivisible100/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumsDivisible100/.idea/.idea.NumsDivisible100/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumsDivisible100/.idea/.idea.NumsDivisible100/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumsDivisible100/.idea/.idea.NumsDivisible100/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SumInputNums/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SumInputNums/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SumInputNums/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SumInputNums/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SumInputNums/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedLimit/.idea/.idea.SpeedLimit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeedLimit/.idea/.idea.SpeedLimit/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +20,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-144418111">
+    <session id="-1196370182">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -29,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="639" />
+          <entry key="cs" value="550" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="639" />
+          <entry key="C#" value="550" />
         </counts>
       </usages-collector>
     </session>
@@ -42,16 +52,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpeedLimit/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SumInputNums/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            <state relative-caret-position="268">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
               <folding>
-                <marker date="1536717509000" expanded="true" signature="35:853" ph="{...}" />
-                <marker date="1536717509000" expanded="true" signature="55:851" ph="{...}" />
-                <marker date="1536717509000" expanded="true" signature="101:845" ph="{...}" />
-                <marker date="1536717509000" expanded="true" signature="534:603" ph="{...}" />
-                <marker date="1536717509000" expanded="true" signature="657:835" ph="{...}" />
+                <marker date="1536724560000" expanded="true" signature="6:66" ph="..." />
+                <marker date="1536724560000" expanded="true" signature="90:764" ph="{...}" />
+                <marker date="1536724560000" expanded="true" signature="110:762" ph="{...}" />
+                <marker date="1536724560000" expanded="true" signature="156:756" ph="{...}" />
+                <marker date="1536724560000" expanded="true" signature="541:614" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -63,12 +73,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SpeedLimit/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SumInputNums/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpeedLimit/Program.cs" />
+        <option value="$PROJECT_DIR$/SumInputNums/Program.cs" />
       </list>
     </option>
   </component>
@@ -80,7 +90,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="857" />
+    <option name="width" value="844" />
     <option name="height" value="753" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,19 +99,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SpeedLimit" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,9 +124,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SpeedLimit/bin/Debug/netcoreapp2.1/SpeedLimit.dll" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SumInputNums/bin/Debug/netcoreapp2.1/SumInputNums.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpeedLimit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SumInputNums" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs>
         <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
@@ -134,7 +135,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SpeedLimit/SpeedLimit.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SumInputNums/SumInputNums.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -151,17 +152,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac0df186-c267-4978-aa4e-be35cccef084" name="Default Changelist" comment="" />
-      <created>1536707647821</created>
+      <changelist id="84bd53b2-9a66-455f-8ea6-9f2a28cec651" name="Default Changelist" comment="" />
+      <created>1536720435948</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536707647821</updated>
-      <workItem from="1536707649782" duration="2847000" />
+      <updated>1536720435948</updated>
+      <workItem from="1536720437611" duration="2806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2847000" />
+    <option name="totallyTimeSpent" value="2806000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -173,22 +174,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="857" height="753" extended-state="0" />
+    <frame x="0" y="23" width="844" height="753" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16319019" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20573565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32980332" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -215,33 +216,20 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/SpeedLimit/Program.cs</url>
-          <line>19</line>
-          <properties documentPath="$PROJECT_DIR$/SpeedLimit/Program.cs" initialLine="19">
-            <startOffsets>
-              <option value="510" />
-            </startOffsets>
-            <endOffsets>
-              <option value="534" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpeedLimit/Program.cs">
+    <entry file="file://$PROJECT_DIR$/SumInputNums/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        <state relative-caret-position="268">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
           <folding>
-            <marker date="1536717509000" expanded="true" signature="35:853" ph="{...}" />
-            <marker date="1536717509000" expanded="true" signature="55:851" ph="{...}" />
-            <marker date="1536717509000" expanded="true" signature="101:845" ph="{...}" />
-            <marker date="1536717509000" expanded="true" signature="534:603" ph="{...}" />
-            <marker date="1536717509000" expanded="true" signature="657:835" ph="{...}" />
+            <marker date="1536724560000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1536724560000" expanded="true" signature="90:764" ph="{...}" />
+            <marker date="1536724560000" expanded="true" signature="110:762" ph="{...}" />
+            <marker date="1536724560000" expanded="true" signature="156:756" ph="{...}" />
+            <marker date="1536724560000" expanded="true" signature="541:614" ph="{...}" />
           </folding>
         </state>
       </provider>
