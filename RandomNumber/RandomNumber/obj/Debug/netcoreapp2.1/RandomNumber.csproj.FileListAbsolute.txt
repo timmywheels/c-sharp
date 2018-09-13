@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.deps.json
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.dll
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.pdb
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.dll
+/Users/timothywheeler/Projects/c-sharp/RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.pdb
