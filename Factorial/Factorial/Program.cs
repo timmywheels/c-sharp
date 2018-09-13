@@ -27,8 +27,7 @@ namespace Factorial
             var input = Convert.ToInt32(Console.ReadLine());
             var sum = new Factor().Factorialize(input);
             
-            
-            Console.WriteLine((int)sum);
+            Console.WriteLine(sum);
         }
     }
 }
