@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ReverseName
 {
@@ -6,8 +8,13 @@ namespace ReverseName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("{0}", args[0]);
+            Console.Write("Enter your name: ");
+            var input = Console.ReadLine();
+            
+            var reverse = new string(input.Reverse().ToArray());
+
+            Console.WriteLine("Reverse: {0}", reverse);
+
         }
     }
 }
