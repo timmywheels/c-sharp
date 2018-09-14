@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c43a00-d82e-40c5-b059-3ec6c6433f33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FiveUniqueNumbers/.idea/.idea.FiveUniqueNumbers/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FiveUniqueNumbers/.idea/.idea.FiveUniqueNumbers/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FiveUniqueNumbers/.idea/.idea.FiveUniqueNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FiveUniqueNumbers/.idea/.idea.FiveUniqueNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FiveUniqueNumbers/.idea/.idea.FiveUniqueNumbers/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,10 +87,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="671" />
-    <option name="y" value="286" />
-    <option name="width" value="1153" />
-    <option name="height" value="810" />
+    <option name="x" value="883" />
+    <option name="y" value="309" />
+    <option name="width" value="1036" />
+    <option name="height" value="771" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536876558757</updated>
-      <workItem from="1536876560679" duration="1174000" />
+      <workItem from="1536876560679" duration="2109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1174000" />
+    <option name="totallyTimeSpent" value="2109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -173,17 +174,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="671" y="286" width="1153" height="810" extended-state="0" />
+    <frame x="883" y="309" width="1036" height="771" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34833482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20523138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.44289693" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3210604" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32953367" />
       <window_info anchor="bottom" id="Message" order="0" />
