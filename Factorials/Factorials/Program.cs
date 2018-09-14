@@ -1,8 +1,7 @@
 ﻿using System;
 
-namespace Factorial
+namespace Factorials
 {
-
     class Factor
     {
         public int Factorialize(int num)
@@ -26,8 +25,9 @@ namespace Factorial
             Console.Write("Enter a number: ");
             var input = Convert.ToInt32(Console.ReadLine());
             var sum = new Factor().Factorialize(input);
-            
-            Console.WriteLine(sum);
+
+            Console.Write(input + "! = ");
+            Console.WriteLine((int)sum);
         }
     }
 }

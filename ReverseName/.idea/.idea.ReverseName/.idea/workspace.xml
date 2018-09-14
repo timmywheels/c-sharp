@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f97a27c3-13fc-4845-b88e-8b4b9ee1d987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testing/.idea/.idea.Testing/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composition/.idea/.idea.Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/.idea.Composition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/.idea/.idea._Inheritance/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Inheritance/_Inheritance/Customer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacebookPost/.idea/.idea.FacebookPost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseName/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseName/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseName/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/.idea.Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing/.idea/.idea.Testing/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +24,7 @@
     <session id="-1027324074">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -33,6 +39,16 @@
           <entry key="C#" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="17" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -40,11 +56,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReverseName/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="165">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <marker date="1536342194000" expanded="true" signature="36:177" ph="{...}" />
-                <marker date="1536342194000" expanded="true" signature="56:175" ph="{...}" />
-                <marker date="1536342194000" expanded="true" signature="102:169" ph="{...}" />
+                <marker date="1536344210000" expanded="true" signature="36:224" ph="{...}" />
+                <marker date="1536344210000" expanded="true" signature="56:222" ph="{...}" />
+                <marker date="1536344210000" expanded="true" signature="102:216" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -58,6 +75,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ReverseName/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ReverseName/Program.cs" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -65,8 +89,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="147" />
-    <option name="y" value="50" />
+    <option name="x" value="-13" />
+    <option name="y" value="24" />
     <option name="width" value="1342" />
     <option name="height" value="1056" />
   </component>
@@ -101,19 +125,24 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseName" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseName/ReverseName.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -129,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536342177678</updated>
-      <workItem from="1536342179036" duration="627000" />
+      <workItem from="1536342179036" duration="1627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="627000" />
+    <option name="totallyTimeSpent" value="1627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +175,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="147" y="50" width="1342" height="1056" extended-state="0" />
+    <frame x="-13" y="24" width="1342" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -159,9 +188,10 @@
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32987553" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32987553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -194,11 +224,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ReverseName/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <marker date="1536342194000" expanded="true" signature="36:177" ph="{...}" />
-            <marker date="1536342194000" expanded="true" signature="56:175" ph="{...}" />
-            <marker date="1536342194000" expanded="true" signature="102:169" ph="{...}" />
+            <marker date="1536344210000" expanded="true" signature="36:224" ph="{...}" />
+            <marker date="1536344210000" expanded="true" signature="56:222" ph="{...}" />
+            <marker date="1536344210000" expanded="true" signature="102:216" ph="{...}" />
           </folding>
         </state>
       </provider>
