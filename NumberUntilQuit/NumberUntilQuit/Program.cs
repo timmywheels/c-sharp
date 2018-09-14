@@ -35,7 +35,7 @@ namespace NumberUntilQuit
 
             foreach (var number in numbers)
             {
-                Console.Write(number + " ");                
+                Console.Write(number + " ");             
             }
         }
     }
