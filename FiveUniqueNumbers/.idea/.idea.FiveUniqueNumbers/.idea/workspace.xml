@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c66270c-58ec-4c83-b00a-1f907fd3a6c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FiveUniqueNumbers/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FiveUniqueNumbers/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FiveUniqueNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FiveUniqueNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FiveUniqueNumbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FiveUniqueNumbers/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/FiveUniqueNumbers.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/bin/Debug/netcoreapp2.1/FiveUniqueNumbers.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/bin/Debug/netcoreapp2.1/FiveUniqueNumbers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/bin/Debug/netcoreapp2.1/FiveUniqueNumbers.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/bin/Debug/netcoreapp2.1/FiveUniqueNumbers.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/bin/Debug/netcoreapp2.1/FiveUniqueNumbers.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/Debug/netcoreapp2.1/FiveUniqueNumbers.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/FiveUniqueNumbers.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/FiveUniqueNumbers.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/FiveUniqueNumbers.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveUniqueNumbers/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/NumbersSeparatedByComma.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/NumbersSeparatedByComma.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/NumbersSeparatedByComma.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/NumbersSeparatedByComma.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/NumbersSeparatedByComma/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/.idea/.idea.RandomNumber/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/.idea/.idea.RandomNumber/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/.idea/.idea.RandomNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/.idea/.idea.RandomNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/.idea/.idea.RandomNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/.idea/.idea.RandomNumber/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/RandomNumber.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/bin/Debug/netcoreapp2.1/RandomNumber.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/Debug/netcoreapp2.1/RandomNumber.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/RandomNumber.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/RandomNumber.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/RandomNumber.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumber/RandomNumber/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.idea/.idea.Factorial/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/.idea.Factorial/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/Factorial/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/Factorial/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorials/.idea/.idea.Factorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorials/.idea/.idea.Factorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/.idea/.idea.ReverseName/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/bin/Debug/netcoreapp2.1/ReverseName.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseName/ReverseName/obj/Debug/netcoreapp2.1/ReverseName.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1248506647">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="373" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="373" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1789952679">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="763" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="763" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FiveUniqueNumbers/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+              <folding>
+                <marker date="1536896311000" expanded="true" signature="6:66" ph="..." />
+                <marker date="1536896311000" expanded="true" signature="95:977" ph="{...}" />
+                <marker date="1536896311000" expanded="true" signature="115:975" ph="{...}" />
+                <marker date="1536896311000" expanded="true" signature="161:969" ph="{...}" />
+                <marker date="1536896311000" expanded="true" signature="280:789" ph="{...}" />
+                <marker date="1536896311000" expanded="true" signature="458:604" ph="{...}" />
+                <marker date="1536896311000" expanded="true" signature="625:775" ph="{...}" />
+                <marker date="1536896311000" expanded="true" signature="878:946" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FiveUniqueNumbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FiveUniqueNumbers/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="106" />
+    <option name="width" value="971" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FiveUniqueNumbers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FiveUniqueNumbers" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FiveUniqueNumbers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FiveUniqueNumbers/bin/Debug/netcoreapp2.1/FiveUniqueNumbers.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FiveUniqueNumbers" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FiveUniqueNumbers/FiveUniqueNumbers.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c66270c-58ec-4c83-b00a-1f907fd3a6c7" name="Default Changelist" comment="" />
+      <created>1536877991566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536877991566</updated>
+      <workItem from="1536877992763" duration="1809000" />
+      <workItem from="1536892068089" duration="4130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5939000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="106" width="971" height="690" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20236814" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.409699" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34508076" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3876652" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FiveUniqueNumbers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <marker date="1536896311000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1536896311000" expanded="true" signature="95:977" ph="{...}" />
+            <marker date="1536896311000" expanded="true" signature="115:975" ph="{...}" />
+            <marker date="1536896311000" expanded="true" signature="161:969" ph="{...}" />
+            <marker date="1536896311000" expanded="true" signature="280:789" ph="{...}" />
+            <marker date="1536896311000" expanded="true" signature="458:604" ph="{...}" />
+            <marker date="1536896311000" expanded="true" signature="625:775" ph="{...}" />
+            <marker date="1536896311000" expanded="true" signature="878:946" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

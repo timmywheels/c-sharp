@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.deps.json
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.dll
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.pdb
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.dll
+/Users/timothywheeler/Projects/c-sharp/NumbersSeparatedByComma/NumbersSeparatedByComma/obj/Debug/netcoreapp2.1/NumbersSeparatedByComma.pdb
