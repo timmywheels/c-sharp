@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7c43a00-d82e-40c5-b059-3ec6c6433f33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NumberUntilQuit/.idea/.idea.NumberUntilQuit/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberUntilQuit/.idea/.idea.NumberUntilQuit/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberUntilQuit/.idea/.idea.NumberUntilQuit/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberUntilQuit/.idea/.idea.NumberUntilQuit/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NumberUntilQuit/.idea/.idea.NumberUntilQuit/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7c43a00-d82e-40c5-b059-3ec6c6433f33" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +12,7 @@
     <session id="-1928829352">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -86,8 +80,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="37" />
+    <option name="x" value="88" />
+    <option name="y" value="36" />
     <option name="width" value="1036" />
     <option name="height" value="771" />
   </component>
@@ -173,8 +167,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="37" width="1036" height="771" extended-state="0" />
-    <editor active="true" />
+    <frame x="88" y="36" width="1036" height="771" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20523138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
