@@ -1,0 +1,15 @@
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/CalculatorApplication.deps.json
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/CalculatorApplication.runtimeconfig.json
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/CalculatorApplication.runtimeconfig.dev.json
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/CalculatorApplication.dll
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp2.1/CalculatorApplication.pdb
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp2.1/CalculatorApplication.csprojAssemblyReference.cache
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp2.1/CalculatorApplication.csproj.CoreCompileInputs.cache
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp2.1/CalculatorApplication.AssemblyInfoInputs.cache
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp2.1/CalculatorApplication.AssemblyInfo.cs
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp2.1/CalculatorApplication.dll
+/Users/argo/RiderProjects/c-sharp/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp2.1/CalculatorApplication.pdb
