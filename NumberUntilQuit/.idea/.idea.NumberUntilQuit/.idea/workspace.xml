@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7c43a00-d82e-40c5-b059-3ec6c6433f33" name="Default Changelist" comment="" />
+    <list default="true" id="99a8aeae-4915-4a9f-8b77-f3d4b64b15c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ThreeSmallestNumbers/.idea/.idea.ThreeSmallestNumbers/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreeSmallestNumbers/.idea/.idea.ThreeSmallestNumbers/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreeSmallestNumbers/.idea/.idea.ThreeSmallestNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreeSmallestNumbers/.idea/.idea.ThreeSmallestNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreeSmallestNumbers/.idea/.idea.ThreeSmallestNumbers/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NumberUntilQuit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumberUntilQuit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersSeparatedByComma/.idea/.idea.NumbersSeparatedByComma/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +17,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1928829352">
+    <session id="1247101646">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -29,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="371" />
+          <entry key="cs" value="243" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="371" />
+          <entry key="C#" value="243" />
         </counts>
       </usages-collector>
     </session>
@@ -42,17 +49,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NumbersSeparatedByComma/Program.cs">
+        <entry file="file://$PROJECT_DIR$/NumberUntilQuit/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="280">
+              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
               <folding>
-                <marker date="1536877126000" expanded="true" signature="6:66" ph="..." />
-                <marker date="1536877126000" expanded="true" signature="101:789" ph="{...}" />
-                <marker date="1536877126000" expanded="true" signature="121:787" ph="{...}" />
-                <marker date="1536877126000" expanded="true" signature="167:781" ph="{...}" />
-                <marker date="1536877126000" expanded="true" signature="464:701" ph="{...}" />
-                <marker date="1536877126000" expanded="true" signature="556:653" ph="{...}" />
+                <marker date="1536932958000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1536932958000" expanded="true" signature="74:892" ph="{...}" />
+                <marker date="1536932958000" expanded="true" signature="94:890" ph="{...}" />
+                <marker date="1536932958000" expanded="true" signature="140:884" ph="{...}" />
+                <marker date="1536932958000" expanded="true" signature="428:485" ph="{...}" />
+                <marker date="1536932958000" expanded="true" signature="553:629" ph="{...}" />
+                <marker date="1536932958000" expanded="true" signature="788:874" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,12 +72,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/NumbersSeparatedByComma/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NumberUntilQuit/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NumbersSeparatedByComma/Program.cs" />
+        <option value="$PROJECT_DIR$/NumberUntilQuit/Program.cs" />
       </list>
     </option>
   </component>
@@ -80,9 +88,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="36" />
-    <option name="width" value="1036" />
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="889" />
     <option name="height" value="771" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -91,17 +99,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReverseName" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,9 +124,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/NumbersSeparatedByComma/bin/Debug/netcoreapp2.1/NumbersSeparatedByComma.dll" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/NumberUntilQuit/bin/Debug/netcoreapp2.1/NumberUntilQuit.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumbersSeparatedByComma" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumberUntilQuit" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs>
         <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
@@ -128,7 +135,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NumbersSeparatedByComma/NumbersSeparatedByComma.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NumberUntilQuit/NumberUntilQuit.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -145,17 +152,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7c43a00-d82e-40c5-b059-3ec6c6433f33" name="Default Changelist" comment="" />
-      <created>1536876558757</created>
+      <changelist id="99a8aeae-4915-4a9f-8b77-f3d4b64b15c8" name="Default Changelist" comment="" />
+      <created>1536932265294</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536876558757</updated>
-      <workItem from="1536876560679" duration="2109000" />
+      <updated>1536932265294</updated>
+      <workItem from="1536932266524" duration="1809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3336000" />
+    <option name="totallyTimeSpent" value="1809000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,31 +174,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="36" width="1036" height="771" extended-state="0" />
+    <frame x="1" y="23" width="889" height="771" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20523138" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15466352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3298969" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3210604" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32953367" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,17 +221,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NumbersSeparatedByComma/Program.cs">
+    <entry file="file://$PROJECT_DIR$/NumberUntilQuit/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="280">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
           <folding>
-            <marker date="1536877126000" expanded="true" signature="6:66" ph="..." />
-            <marker date="1536877126000" expanded="true" signature="101:789" ph="{...}" />
-            <marker date="1536877126000" expanded="true" signature="121:787" ph="{...}" />
-            <marker date="1536877126000" expanded="true" signature="167:781" ph="{...}" />
-            <marker date="1536877126000" expanded="true" signature="464:701" ph="{...}" />
-            <marker date="1536877126000" expanded="true" signature="556:653" ph="{...}" />
+            <marker date="1536932958000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1536932958000" expanded="true" signature="74:892" ph="{...}" />
+            <marker date="1536932958000" expanded="true" signature="94:890" ph="{...}" />
+            <marker date="1536932958000" expanded="true" signature="140:884" ph="{...}" />
+            <marker date="1536932958000" expanded="true" signature="428:485" ph="{...}" />
+            <marker date="1536932958000" expanded="true" signature="553:629" ph="{...}" />
+            <marker date="1536932958000" expanded="true" signature="788:874" ph="{...}" />
           </folding>
         </state>
       </provider>

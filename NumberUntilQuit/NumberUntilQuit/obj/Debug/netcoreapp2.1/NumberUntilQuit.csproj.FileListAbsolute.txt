@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/bin/Debug/netcoreapp2.1/NumberUntilQuit.deps.json
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/bin/Debug/netcoreapp2.1/NumberUntilQuit.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/bin/Debug/netcoreapp2.1/NumberUntilQuit.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/bin/Debug/netcoreapp2.1/NumberUntilQuit.dll
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/bin/Debug/netcoreapp2.1/NumberUntilQuit.pdb
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/obj/Debug/netcoreapp2.1/NumberUntilQuit.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/obj/Debug/netcoreapp2.1/NumberUntilQuit.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/obj/Debug/netcoreapp2.1/NumberUntilQuit.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/obj/Debug/netcoreapp2.1/NumberUntilQuit.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/obj/Debug/netcoreapp2.1/NumberUntilQuit.dll
+/Users/timothywheeler/Projects/c-sharp/NumberUntilQuit/NumberUntilQuit/obj/Debug/netcoreapp2.1/NumberUntilQuit.pdb

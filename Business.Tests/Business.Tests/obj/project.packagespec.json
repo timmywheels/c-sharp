@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/timothywheeler/Projects/c-sharp/Business.Tests/Business.Tests/Business.Tests.csproj",
+    "projectName": "Business.Tests",
+    "projectPath": "/Users/timothywheeler/Projects/c-sharp/Business.Tests/Business.Tests/Business.Tests.csproj",
+    "outputPath": "/Users/timothywheeler/Projects/c-sharp/Business.Tests/Business.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0-preview-20180816-01, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.10.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

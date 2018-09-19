@@ -1,0 +1,11 @@
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/bin/Debug/netcoreapp2.1/ThreeSmallestNumbers.deps.json
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/bin/Debug/netcoreapp2.1/ThreeSmallestNumbers.runtimeconfig.json
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/bin/Debug/netcoreapp2.1/ThreeSmallestNumbers.runtimeconfig.dev.json
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/bin/Debug/netcoreapp2.1/ThreeSmallestNumbers.dll
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/bin/Debug/netcoreapp2.1/ThreeSmallestNumbers.pdb
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/obj/Debug/netcoreapp2.1/ThreeSmallestNumbers.csprojAssemblyReference.cache
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/obj/Debug/netcoreapp2.1/ThreeSmallestNumbers.csproj.CoreCompileInputs.cache
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/obj/Debug/netcoreapp2.1/ThreeSmallestNumbers.AssemblyInfoInputs.cache
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/obj/Debug/netcoreapp2.1/ThreeSmallestNumbers.AssemblyInfo.cs
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/obj/Debug/netcoreapp2.1/ThreeSmallestNumbers.dll
+/Users/timothywheeler/Projects/c-sharp/ThreeSmallestNumbers/ThreeSmallestNumbers/obj/Debug/netcoreapp2.1/ThreeSmallestNumbers.pdb
