@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="/93cf5ca5" t="IncludeRecursive" />
+    <e p="/349888be" t="IncludeRecursive" />
     <e p="/app" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_SimpleWebScraper.-1540959910.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_BuilderPattern.-1756452102.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="packages" t="ExcludeRecursive" />
-      <e p="SimpleWebScraper" t="IncludeRecursive">
+      <e p="BuilderPattern" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="BuilderPattern.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
-              <e p="SimpleWebScraper.AssemblyInfo.cs" t="Include" />
+              <e p="BuilderPattern.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
         <e p="Person.cs" t="Include" />
         <e p="PersonBuilder.cs" t="Include" />
         <e p="Program.cs" t="Include" />
-        <e p="SimpleWebScraper.csproj" t="IncludeRecursive" />
       </e>
-      <e p="SimpleWebScraper.sln" t="IncludeFlat" />
+      <e p="BuilderPattern.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
