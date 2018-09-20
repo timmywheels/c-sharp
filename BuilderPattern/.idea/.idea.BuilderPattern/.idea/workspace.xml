@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bd7e596-db1d-498c-8ce4-6a13e379fcc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BuilderPattern/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BuilderPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BuilderPattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BuilderPattern/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuilderPattern/obj/Debug/netcoreapp2.1/BuilderPattern.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuilderPattern/obj/Debug/netcoreapp2.1/BuilderPattern.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleWebScraper/.idea/.idea.SimpleWebScraper/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleWebScraper/.idea/.idea.SimpleWebScraper/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleWebScraper/.idea/.idea.SimpleWebScraper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleWebScraper/.idea/.idea.SimpleWebScraper/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleWebScraper/SimpleWebScraper/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleWebScraper/SimpleWebScraper/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleWebScraper/SimpleWebScraper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleWebScraper/SimpleWebScraper/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="3bd7e596-db1d-498c-8ce4-6a13e379fcc5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +12,7 @@
     <session id="-2071064900">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -67,7 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BuilderPattern/PersonBuilder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="288">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding>
                 <marker date="1537408464000" expanded="true" signature="24:1405" ph="{...}" />
                 <marker date="1537408464000" expanded="true" signature="57:1403" ph="{...}" />
@@ -203,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537408274834</updated>
-      <workItem from="1537408277023" duration="192000" />
+      <workItem from="1537408277023" duration="226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192000" />
+    <option name="totallyTimeSpent" value="226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,14 +216,14 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960998" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32977098" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -291,7 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BuilderPattern/PersonBuilder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="288">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
             <marker date="1537408464000" expanded="true" signature="24:1405" ph="{...}" />
             <marker date="1537408464000" expanded="true" signature="57:1403" ph="{...}" />
